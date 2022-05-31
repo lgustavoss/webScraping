@@ -39,4 +39,6 @@ Apos realizar todos os procedimentos acima, basta executar a aplicação que o a
 
 ## ✒️ Autor
 Projeto realizado por Luís Gustavo.
-<a href="github.com/lgustavoss" height="30" width="40" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" target="_blank"></a> 
+<div>
+  <a href="github.com/lgustavoss" height="30" width="40" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" target="_blank"></a> 
+</div>
