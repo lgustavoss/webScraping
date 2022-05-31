@@ -5,6 +5,7 @@ Web Scraping é uma técnica de programação usada para extrair informações d
 ## 🖇️ Clonando o projeto
 
 Clonar o repositório
+
 `git clone https://github.com/lgustavoss/webScraping.git `
 
 
@@ -22,8 +23,11 @@ Abaixo temos tudo o que precisa ser instalado:
 Para realizar a instalação dos pré requisitos execute os seguintes comandos: 
 
 ```$ pip install requests```
+
 ```$ pip install selenium```
+
 ```$ pip install bs4```
+
 ```$ pip install pandas```
 
 ## ⚙️ Executando
