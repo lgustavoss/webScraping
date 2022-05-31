@@ -79,4 +79,4 @@ for i in range(10):
 
 # Exportando os dados para um arquivo
 dados = pd.DataFrame(dados_local)
-dados.to_csv('sobreLocal.csv', index=False)
+dados.to_json('sobreLocal.json', index=False)
