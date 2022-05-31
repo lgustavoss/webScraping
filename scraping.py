@@ -1,5 +1,3 @@
-from distutils.filelist import findall
-from gettext import find
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -9,7 +7,7 @@ from time import sleep
 import pandas as pd
 
 # Coloque aqui a cidade que deseja buscar as informações
-local = 'Maceio'
+local = 'Maragogi'
 
 options = Options()
 # definindo o tamanho da janela
@@ -76,9 +74,9 @@ for detalheAtracao in range(10):
 
 
 for i in range(10):
-    dados_local.append([detalheAtracao[i]])
+    dados_local.append(detalheAtracao[i])
 
 
 # Exportando os dados para um arquivo
 dados = pd.DataFrame(dados_local)
-dados.to_csv('sobreLocal.csv')
+dados.to_csv('sobreLocal.csv', index=False)
