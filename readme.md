@@ -5,7 +5,7 @@ Web Scraping é uma técnica de programação usada para extrair informações d
 ## 🖇️ Clonando o projeto
 
 Clonar o repositório
-```git clone https://github.com/lgustavoss/webScraping.git ```
+`git clone https://github.com/lgustavoss/webScraping.git `
 
 
 ## 📋 Pré-requisitos
